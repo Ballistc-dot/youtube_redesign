@@ -1,3 +1,17 @@
+
+A youtube redesing built with react and styled-components 
+
+
+Reference Design: https://dribbble.com/shots/14993502-Youtube-Redesign-concept-Dark-theme
+
+
+![apllication image]()
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
