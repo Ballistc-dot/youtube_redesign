@@ -5,7 +5,7 @@ A youtube redesing built with react and styled-components
 Reference Design: https://dribbble.com/shots/14993502-Youtube-Redesign-concept-Dark-theme
 
 
-![apllication image]()
+![apllication image](https://github.com/Ballistc-dot/youtube_redesign/blob/master/public/web_image.png?raw=true)
 
 
 
