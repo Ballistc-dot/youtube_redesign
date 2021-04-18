@@ -6,7 +6,7 @@ Reference Design: https://dribbble.com/shots/14993502-Youtube-Redesign-concept-D
 
 
 
-![Web image](https://user-images.githubusercontent.com/54046156/115142738-c4b8bd00-a019-11eb-901f-50ab72ee5bad.png)
+![Web Image](https://user-images.githubusercontent.com/54046156/115142767-ec0f8a00-a019-11eb-89a5-0946520a91f6.png)
 
 
 
